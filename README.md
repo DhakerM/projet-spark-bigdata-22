@@ -1,5 +1,5 @@
 # Projet Spark Big Data – LeBonCoin Streaming Graphe
-**Dhaker MEDDEB & Nassim — Module Architecture Big Data**
+**Dhaker MEDDEB & Nassim — SPARK**
  
 ---
  
