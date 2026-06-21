@@ -27,7 +27,7 @@ Le système génère en continu des événements utilisateurs (AIME, VOUT, ACHAT
 pip install pyspark dash plotly
 ```
  
-### GraphFrames (JAR Spark — obligatoire)
+### GraphFrames (JAR Spark )
 GraphFrames est une bibliothèque externe à Spark. Il faut la télécharger au lancement via `--packages` :
  
 ```bash
